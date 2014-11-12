@@ -26,6 +26,7 @@ void printf_begin(void)
   fdevopen( &serial_putc, 0 );
 }
 
+
 //nRF24 set the pin 9 to CE and 10 to CSN/SS
 // Cables are:
 //     SS       -> 10
