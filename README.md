@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nrf24pihub
 ==========
 
@@ -8,3 +9,7 @@ python code for spidev
 and GPIO drivers in python
 
 Details on setting it up can be read at http://blog.riyas.org
+=======
+raspi-RF24
+==========
+>>>>>>> 596487984d86ae87db2427ecbea77ccf23e622a9
